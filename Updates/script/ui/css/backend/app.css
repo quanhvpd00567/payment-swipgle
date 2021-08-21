@@ -1,0 +1,82 @@
+tbody,
+td,
+tfoot,
+th,
+thead,
+tr {
+    vertical-align: middle
+}
+
+.navbar-vertical.navbar-expand-lg .navbar-collapse .navbar-nav .nav-link {
+    padding: 0.7rem 1.5rem;
+}
+
+.swipgle-backdash .box h1 {
+    font-size: 25px;
+}
+
+.swipgle-backdash .box h4 {
+    font-size: 16px;
+}
+
+.card {
+    box-shadow: none;
+    border: 1px solid rgba(101, 109, 119, 0.16);
+}
+
+.point-red {
+    color: red;
+}
+
+.dropdown-item.active,
+.dropdown-item:active {
+    color: #ffffff;
+    background: #ffffff1a;
+}
+
+.form-small {
+    height: 36px !important;
+}
+
+.card-table .form-control {
+    height: calc(1.4285714em + 0.25rem + 2px) !important;
+}
+
+table.table-bordered.dataTable {
+    border-right-width: 0;
+    border-left: 1px solid #ebedf1
+}
+
+.bg-purple {
+    background-color: #7d05d8 !important;
+}
+
+.custom-table #basic-datatables_paginate {
+    margin-top: 1rem;
+}
+
+.custom-table #basic-datatables2_paginate {
+    margin-top: 1rem;
+}
+
+.custom-table #basic-datatables3_paginate {
+    margin-top: 1rem;
+}
+
+.custom-table .dataTables_wrapper .dataTables_info {
+    margin-top: 1rem;
+    padding: 0;
+}
+
+.badge {
+    padding: 10px 20px;
+}
+
+.nav-tabs .nav-link {
+    padding: 1rem 1.5rem;
+    font-size: 15px;
+}
+
+.nav-tabs .nav-link.active {
+    border-bottom-color: var(--swipgle-secondary-color);
+}

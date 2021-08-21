@@ -1,0 +1,21 @@
+========================================= Important =====================================================
+- If you are a new buyer, the updates are already applied in the script just use "swipgle.zip"
+
+========================================= How to update ==================================================
+- The update is for people who previously bought the item 
+- To apply the update, just copy the files from "script" folder and paste them into the original script files
+- Go to "PhpMyAdmin" in your hosting and choose your database and remove "stripe table" and "transactions table" 
+and "settings table" then import or drag & drop the "database/database.sql" 
+
+========================================= Edit file =======================================================
+- Go to your script files and open "Application" folder then edit ".env" file add this and click save :
+
+STRIPE_PUBLISHABLE_KEY=
+STRIPE_SECRET_KEY=
+
+========================================= Edit file =======================================================
+++ If you have problem with updates please contact me ++
+
+
+
+
